@@ -1,4 +1,4 @@
-
+AppCleaner for macOS top Plugin: window-management & dark-mode is the best AppCleaner for macOS plugin, featuring window-management and dark-mode. Safe, efficient, and optimized
 
 
 
